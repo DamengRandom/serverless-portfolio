@@ -1,3 +1,3 @@
-# serverless-portfolio
+# serverless-portfolio: CCP Exam Notes
 
-It uses AWS + ReactJS Tech stack to build ..
+It uses AWS + HTML Tech stack to build ..
