@@ -30,6 +30,6 @@ def lambda_handler(event, context):
         topic.publish(Subject="Deployment Failure",
                       Message="Oops, serverless.damengccp.com hasn't been deployed successfully..")
 
-    return 'Hi there'
+    return 'Hi there ..'
 
 # How to run the code? In terminal pls type: /usr/local/bin/python2 upload-updates-lambda.py
