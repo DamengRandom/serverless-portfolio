@@ -1,4 +1,4 @@
-version: 0.1
+version: 0.1.1
 
 phases:
   build:
@@ -7,6 +7,4 @@ phases:
 artifacts:
   files:
     - index.html
-    - favicon.ico
-    - styles/*
-    - images/*
+    - CCP_Exam_Tips_2019_Editable.pdf
